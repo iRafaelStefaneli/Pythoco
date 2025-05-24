@@ -1,0 +1,42 @@
+@SETPROGAMACAO. Curso Completo de Customtkinter. Disponível em:https://www.youtube.com/playlist?list=PL6KTZQDPGs5gZYtK9YblxA-Te9wQM8mdb. 
+Acesso em: 05 mai. 25
+
+BIBLIOTECA DA UNIVERSIDADE PAULISTA - UNIP. Guia de normalização para
+apresentação de trabalhos acadêmicos da Universidade Paulista: ABNT. São Paulo:
+UNIP, 2025. Disponível em: https://unip.br/servicos/biblioteca/guia.aspx. 
+Acesso em: 22 de mai. 25
+
+HASHTAG TREINAMENTOS. Múltiplas janelas no Tkinter Python. Disponível em: https://www.hashtagtreinamentos.com/multiplas-janelas-no-tkinter-python. 
+Acesso em: 05 mai. 25
+
+PYTHON SOFTWARE FOUNDATION. tkinter — Interface Tk para Python. Disponível em: https://docs.python.org/pt-br/3.12/library/tkinter.html. 
+Acesso em: 19 mai. 25
+
+SCHIMANSKY, Tom. CustomTkinter Documentation. Disponível em: https://customtkinter.tomschimansky.com/. 
+Acesso em: 05 mai. 25
+
+SCHIMANSKY, Tom. Issue #1582 – GitHub: CustomTkinter. Disponível em: https://github.com/TomSchimansky/CustomTkinter/issues/1582. 
+Acesso em: 07 mai. 25
+
+SCHIMANSKY, Tom. CTkScrollableFrame – GitHub Wiki: CustomTkinter. Disponível em: https://github.com/TomSchimansky/CustomTkinter/wiki/CTkScrollableFrame. 
+Acesso em: 22 mai. 25
+
+STACK OVERFLOW EM PORTUGUÊS. Python3 tkinter método destroy. Disponível em: https://pt.stackoverflow.com/questions/403492/python3-tkinter-metodo-destroy. 
+Acesso em: 09 mai. 25
+
+TKDOCS. Tutorial TkDocs - The Grid Geometry Manager. Disponível em: https://tkdocs.com/tutorial/grid.html. 
+Acesso em: 18 mai. 25
+
+TKDOCS. - Tutorial TkDocs - Basic Widgets. Disponível em: https://tkdocs.com/tutorial/widgets.html. 
+Acesso em: 19 mai. 25
+
+Redator Sankhya. Sankhya - Cibersegurança: como funciona e quais os tipos existentes. Disponivel em: https://www.sankhya.com.br/blog/ciberseguranca/ data de acesso: 22/05
+
+Mirabili Renato - Proviti - Conheça os Pilares da Segurança da Informação. Disponivel em: https://www.protiviti.com.br/cybersecurity/pilares-seguranca-da-informacao/#:~:text=Tradicionalmente%20a%20SI%20era%20composta,a%20Confidencialidade%2C%20Integridade%20e%20Disponibilidade. Data de acesso: 12/05
+
+(IBSEC) Instituto Brasileiro de Cibersegurança, disponivel em: https://ibsec.com.br/quais-sao-os-tipos-de-ciberseguranca/ . data de acesso 12/05
+
+LARISSA. - Pensamento Lógico Computacional com Python. Disponível em: Material UNIP.
+Acesso em: 12 mai. 25
+
+
